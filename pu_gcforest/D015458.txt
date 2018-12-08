@@ -1,0 +1,84 @@
+D015458-RandomState0, mean+-std recall:0.8000,0.0833
+D015458-RandomState0, mean+-std precision:0.0224,0.0023
+D015458-RandomState0, mean+-std prauc:0.1109,0.0246
+D015458-RandomState0, 5-fold cv recall:0.7142857142857143,0.7142857142857143,0.7857142857142857,0.9285714285714286,0.8571428571428571
+D015458-RandomState0, 5-fold cv precision:0.02,0.02,0.022,0.026,0.024
+D015458-RandomState0, 5-fold cv prauc:0.0714,0.1143,0.1036,0.1173,0.1478
+END
+D015458-RandomState10, mean+-std recall:0.8857,0.0728
+D015458-RandomState10, mean+-std precision:0.0248,0.0020
+D015458-RandomState10, mean+-std prauc:0.1604,0.0060
+D015458-RandomState10, 5-fold cv recall:0.8571428571428571,1.0,0.7857142857142857,0.9285714285714286,0.8571428571428571
+D015458-RandomState10, 5-fold cv precision:0.024,0.028,0.022,0.026,0.024
+D015458-RandomState10, 5-fold cv prauc:0.1549,0.1639,0.1562,0.1564,0.1706
+END
+D015458-RandomState9, mean+-std recall:0.8571,0.1278
+D015458-RandomState9, mean+-std precision:0.0240,0.0036
+D015458-RandomState9, mean+-std prauc:0.1539,0.0240
+D015458-RandomState9, 5-fold cv recall:0.6428571428571429,0.7857142857142857,0.9285714285714286,1.0,0.9285714285714286
+D015458-RandomState9, 5-fold cv precision:0.018,0.022,0.026,0.028,0.026
+D015458-RandomState9, 5-fold cv prauc:0.1183,0.1481,0.1832,0.1779,0.142
+END
+D015458-RandomState8, mean+-std recall:0.8143,0.0571
+D015458-RandomState8, mean+-std precision:0.0228,0.0016
+D015458-RandomState8, mean+-std prauc:0.1327,0.0187
+D015458-RandomState8, 5-fold cv recall:0.7857142857142857,0.7857142857142857,0.7857142857142857,0.7857142857142857,0.9285714285714286
+D015458-RandomState8, 5-fold cv precision:0.022,0.022,0.022,0.022,0.026
+D015458-RandomState8, 5-fold cv prauc:0.1408,0.1117,0.1354,0.1134,0.162
+END
+D015458-RandomState7, mean+-std recall:0.8000,0.0948
+D015458-RandomState7, mean+-std precision:0.0224,0.0027
+D015458-RandomState7, mean+-std prauc:0.1320,0.0101
+D015458-RandomState7, 5-fold cv recall:0.7857142857142857,0.9285714285714286,0.7857142857142857,0.8571428571428571,0.6428571428571429
+D015458-RandomState7, 5-fold cv precision:0.022,0.026,0.022,0.024,0.018
+D015458-RandomState7, 5-fold cv prauc:0.1371,0.1313,0.1476,0.1269,0.1173
+END
+D015458-RandomState6, mean+-std recall:0.8429,0.0700
+D015458-RandomState6, mean+-std precision:0.0236,0.0020
+D015458-RandomState6, mean+-std prauc:0.1700,0.0088
+D015458-RandomState6, 5-fold cv recall:0.8571428571428571,0.7142857142857143,0.8571428571428571,0.9285714285714286,0.8571428571428571
+D015458-RandomState6, 5-fold cv precision:0.024,0.02,0.024,0.026,0.024
+D015458-RandomState6, 5-fold cv prauc:0.1612,0.161,0.1678,0.1835,0.1766
+END
+D015458-RandomState5, mean+-std recall:0.8714,0.0948
+D015458-RandomState5, mean+-std precision:0.0244,0.0027
+D015458-RandomState5, mean+-std prauc:0.1740,0.0180
+D015458-RandomState5, 5-fold cv recall:1.0,0.7142857142857143,0.8571428571428571,0.9285714285714286,0.8571428571428571
+D015458-RandomState5, 5-fold cv precision:0.028,0.02,0.024,0.026,0.024
+D015458-RandomState5, 5-fold cv prauc:0.2069,0.156,0.1752,0.1595,0.1724
+END
+D015458-RandomState4, mean+-std recall:0.7429,0.0571
+D015458-RandomState4, mean+-std precision:0.0208,0.0016
+D015458-RandomState4, mean+-std prauc:0.1273,0.0191
+D015458-RandomState4, 5-fold cv recall:0.8571428571428571,0.7142857142857143,0.7142857142857143,0.7142857142857143,0.7142857142857143
+D015458-RandomState4, 5-fold cv precision:0.024,0.02,0.02,0.02,0.02
+D015458-RandomState4, 5-fold cv prauc:0.1386,0.0938,0.1285,0.151,0.1244
+END
+D015458-RandomState3, mean+-std recall:0.7714,0.0700
+D015458-RandomState3, mean+-std precision:0.0216,0.0020
+D015458-RandomState3, mean+-std prauc:0.1589,0.0147
+D015458-RandomState3, 5-fold cv recall:0.7857142857142857,0.7857142857142857,0.7857142857142857,0.8571428571428571,0.6428571428571429
+D015458-RandomState3, 5-fold cv precision:0.022,0.022,0.022,0.024,0.018
+D015458-RandomState3, 5-fold cv prauc:0.1606,0.1668,0.1575,0.1771,0.1327
+END
+D015458-RandomState2, mean+-std recall:0.8143,0.0350
+D015458-RandomState2, mean+-std precision:0.0228,0.0010
+D015458-RandomState2, mean+-std prauc:0.1561,0.0105
+D015458-RandomState2, 5-fold cv recall:0.7857142857142857,0.8571428571428571,0.8571428571428571,0.7857142857142857,0.7857142857142857
+D015458-RandomState2, 5-fold cv precision:0.022,0.024,0.024,0.022,0.022
+D015458-RandomState2, 5-fold cv prauc:0.145,0.1682,0.1549,0.168,0.1442
+END
+D015458-RandomState1, mean+-std recall:0.7143,0.0782
+D015458-RandomState1, mean+-std precision:0.0200,0.0022
+D015458-RandomState1, mean+-std prauc:0.1123,0.0202
+D015458-RandomState1, 5-fold cv recall:0.7857142857142857,0.5714285714285714,0.7857142857142857,0.7142857142857143,0.7142857142857143
+D015458-RandomState1, 5-fold cv precision:0.022,0.016,0.022,0.02,0.02
+D015458-RandomState1, 5-fold cv prauc:0.1274,0.077,0.1275,0.1274,0.1022
+END
+D015458-RandomState10, mean+-std recall:0.7857,0.0782
+D015458-RandomState10, mean+-std precision:0.0220,0.0022
+D015458-RandomState10, mean+-std prauc:0.1163,0.0222
+D015458-RandomState10, 5-fold cv recall:0.8571428571428571,0.8571428571428571,0.7857142857142857,0.6428571428571429,0.7857142857142857
+D015458-RandomState10, 5-fold cv precision:0.024,0.024,0.022,0.018,0.022
+D015458-RandomState10, 5-fold cv prauc:0.1174,0.1509,0.0861,0.1003,0.1267
+END

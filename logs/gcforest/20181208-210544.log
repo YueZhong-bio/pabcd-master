@@ -1,0 +1,65 @@
+[ 2018-12-08 21:05:44,814][cascade_classifier.fit_transform] X_groups_train.shape=[(14368, 24)],y_train.shape=(14368,),X_groups_test.shape=no_test,y_test.shape=no_test
+[ 2018-12-08 21:05:44,815][cascade_classifier.fit_transform] group_dims=[24]
+[ 2018-12-08 21:05:44,815][cascade_classifier.fit_transform] group_starts=[0]
+[ 2018-12-08 21:05:44,815][cascade_classifier.fit_transform] group_ends=[24]
+[ 2018-12-08 21:05:44,816][cascade_classifier.fit_transform] X_train.shape=(14368, 24),X_test.shape=(0, 24)
+[ 2018-12-08 21:05:44,817][cascade_classifier.fit_transform] [layer=0] look_indexs=[0], X_cur_train.shape=(14368, 24), X_cur_test.shape=(0, 24)
+[ 2018-12-08 21:05:45,507][kfold_wrapper.log_eval_metrics] Accuracy(layer_0 - estimator_0 - 5_folds.train_0.predict)=99.44%
+[ 2018-12-08 21:05:46,186][kfold_wrapper.log_eval_metrics] Accuracy(layer_0 - estimator_0 - 5_folds.train_1.predict)=99.44%
+[ 2018-12-08 21:05:46,847][kfold_wrapper.log_eval_metrics] Accuracy(layer_0 - estimator_0 - 5_folds.train_2.predict)=99.48%
+[ 2018-12-08 21:05:47,495][kfold_wrapper.log_eval_metrics] Accuracy(layer_0 - estimator_0 - 5_folds.train_3.predict)=99.48%
+[ 2018-12-08 21:05:48,160][kfold_wrapper.log_eval_metrics] Accuracy(layer_0 - estimator_0 - 5_folds.train_4.predict)=99.48%
+[ 2018-12-08 21:05:48,162][kfold_wrapper.log_eval_metrics] Accuracy(layer_0 - estimator_0 - 5_folds.train_cv.predict)=99.46%
+[ 2018-12-08 21:05:48,757][kfold_wrapper.log_eval_metrics] Accuracy(layer_0 - estimator_1 - 5_folds.train_0.predict)=99.44%
+[ 2018-12-08 21:05:49,366][kfold_wrapper.log_eval_metrics] Accuracy(layer_0 - estimator_1 - 5_folds.train_1.predict)=99.44%
+[ 2018-12-08 21:05:49,967][kfold_wrapper.log_eval_metrics] Accuracy(layer_0 - estimator_1 - 5_folds.train_2.predict)=99.48%
+[ 2018-12-08 21:05:50,507][kfold_wrapper.log_eval_metrics] Accuracy(layer_0 - estimator_1 - 5_folds.train_3.predict)=99.41%
+[ 2018-12-08 21:05:51,050][kfold_wrapper.log_eval_metrics] Accuracy(layer_0 - estimator_1 - 5_folds.train_4.predict)=99.48%
+[ 2018-12-08 21:05:51,051][kfold_wrapper.log_eval_metrics] Accuracy(layer_0 - estimator_1 - 5_folds.train_cv.predict)=99.45%
+[ 2018-12-08 21:05:51,052][cascade_classifier.calc_accuracy] Accuracy(layer_0 - train.classifier_average)=99.46%
+[ 2018-12-08 21:05:51,057][cascade_classifier.fit_transform] [layer=1] look_indexs=[0], X_cur_train.shape=(14368, 28), X_cur_test.shape=(0, 28)
+[ 2018-12-08 21:05:51,858][kfold_wrapper.log_eval_metrics] Accuracy(layer_1 - estimator_0 - 5_folds.train_0.predict)=99.44%
+[ 2018-12-08 21:05:52,542][kfold_wrapper.log_eval_metrics] Accuracy(layer_1 - estimator_0 - 5_folds.train_1.predict)=99.44%
+[ 2018-12-08 21:05:53,340][kfold_wrapper.log_eval_metrics] Accuracy(layer_1 - estimator_0 - 5_folds.train_2.predict)=99.48%
+[ 2018-12-08 21:05:54,155][kfold_wrapper.log_eval_metrics] Accuracy(layer_1 - estimator_0 - 5_folds.train_3.predict)=99.48%
+[ 2018-12-08 21:05:54,957][kfold_wrapper.log_eval_metrics] Accuracy(layer_1 - estimator_0 - 5_folds.train_4.predict)=99.48%
+[ 2018-12-08 21:05:54,958][kfold_wrapper.log_eval_metrics] Accuracy(layer_1 - estimator_0 - 5_folds.train_cv.predict)=99.46%
+[ 2018-12-08 21:05:55,525][kfold_wrapper.log_eval_metrics] Accuracy(layer_1 - estimator_1 - 5_folds.train_0.predict)=99.44%
+[ 2018-12-08 21:05:56,127][kfold_wrapper.log_eval_metrics] Accuracy(layer_1 - estimator_1 - 5_folds.train_1.predict)=99.44%
+[ 2018-12-08 21:05:56,681][kfold_wrapper.log_eval_metrics] Accuracy(layer_1 - estimator_1 - 5_folds.train_2.predict)=99.48%
+[ 2018-12-08 21:05:57,238][kfold_wrapper.log_eval_metrics] Accuracy(layer_1 - estimator_1 - 5_folds.train_3.predict)=99.48%
+[ 2018-12-08 21:05:57,795][kfold_wrapper.log_eval_metrics] Accuracy(layer_1 - estimator_1 - 5_folds.train_4.predict)=99.44%
+[ 2018-12-08 21:05:57,796][kfold_wrapper.log_eval_metrics] Accuracy(layer_1 - estimator_1 - 5_folds.train_cv.predict)=99.46%
+[ 2018-12-08 21:05:57,797][cascade_classifier.calc_accuracy] Accuracy(layer_1 - train.classifier_average)=99.46%
+[ 2018-12-08 21:05:57,802][cascade_classifier.fit_transform] [layer=2] look_indexs=[0], X_cur_train.shape=(14368, 28), X_cur_test.shape=(0, 28)
+[ 2018-12-08 21:05:58,631][kfold_wrapper.log_eval_metrics] Accuracy(layer_2 - estimator_0 - 5_folds.train_0.predict)=99.44%
+[ 2018-12-08 21:05:59,434][kfold_wrapper.log_eval_metrics] Accuracy(layer_2 - estimator_0 - 5_folds.train_1.predict)=99.44%
+[ 2018-12-08 21:06:00,252][kfold_wrapper.log_eval_metrics] Accuracy(layer_2 - estimator_0 - 5_folds.train_2.predict)=99.48%
+[ 2018-12-08 21:06:01,056][kfold_wrapper.log_eval_metrics] Accuracy(layer_2 - estimator_0 - 5_folds.train_3.predict)=99.48%
+[ 2018-12-08 21:06:01,883][kfold_wrapper.log_eval_metrics] Accuracy(layer_2 - estimator_0 - 5_folds.train_4.predict)=99.48%
+[ 2018-12-08 21:06:01,884][kfold_wrapper.log_eval_metrics] Accuracy(layer_2 - estimator_0 - 5_folds.train_cv.predict)=99.46%
+[ 2018-12-08 21:06:02,448][kfold_wrapper.log_eval_metrics] Accuracy(layer_2 - estimator_1 - 5_folds.train_0.predict)=99.44%
+[ 2018-12-08 21:06:03,009][kfold_wrapper.log_eval_metrics] Accuracy(layer_2 - estimator_1 - 5_folds.train_1.predict)=99.44%
+[ 2018-12-08 21:06:03,584][kfold_wrapper.log_eval_metrics] Accuracy(layer_2 - estimator_1 - 5_folds.train_2.predict)=99.48%
+[ 2018-12-08 21:06:04,156][kfold_wrapper.log_eval_metrics] Accuracy(layer_2 - estimator_1 - 5_folds.train_3.predict)=99.48%
+[ 2018-12-08 21:06:04,711][kfold_wrapper.log_eval_metrics] Accuracy(layer_2 - estimator_1 - 5_folds.train_4.predict)=99.44%
+[ 2018-12-08 21:06:04,712][kfold_wrapper.log_eval_metrics] Accuracy(layer_2 - estimator_1 - 5_folds.train_cv.predict)=99.46%
+[ 2018-12-08 21:06:04,713][cascade_classifier.calc_accuracy] Accuracy(layer_2 - train.classifier_average)=99.46%
+[ 2018-12-08 21:06:04,716][cascade_classifier.fit_transform] [layer=3] look_indexs=[0], X_cur_train.shape=(14368, 28), X_cur_test.shape=(0, 28)
+[ 2018-12-08 21:06:05,383][kfold_wrapper.log_eval_metrics] Accuracy(layer_3 - estimator_0 - 5_folds.train_0.predict)=99.44%
+[ 2018-12-08 21:06:06,199][kfold_wrapper.log_eval_metrics] Accuracy(layer_3 - estimator_0 - 5_folds.train_1.predict)=99.44%
+[ 2018-12-08 21:06:07,014][kfold_wrapper.log_eval_metrics] Accuracy(layer_3 - estimator_0 - 5_folds.train_2.predict)=99.48%
+[ 2018-12-08 21:06:07,837][kfold_wrapper.log_eval_metrics] Accuracy(layer_3 - estimator_0 - 5_folds.train_3.predict)=99.48%
+[ 2018-12-08 21:06:08,639][kfold_wrapper.log_eval_metrics] Accuracy(layer_3 - estimator_0 - 5_folds.train_4.predict)=99.48%
+[ 2018-12-08 21:06:08,640][kfold_wrapper.log_eval_metrics] Accuracy(layer_3 - estimator_0 - 5_folds.train_cv.predict)=99.46%
+[ 2018-12-08 21:06:09,194][kfold_wrapper.log_eval_metrics] Accuracy(layer_3 - estimator_1 - 5_folds.train_0.predict)=99.44%
+[ 2018-12-08 21:06:09,752][kfold_wrapper.log_eval_metrics] Accuracy(layer_3 - estimator_1 - 5_folds.train_1.predict)=99.44%
+[ 2018-12-08 21:06:10,324][kfold_wrapper.log_eval_metrics] Accuracy(layer_3 - estimator_1 - 5_folds.train_2.predict)=99.48%
+[ 2018-12-08 21:06:10,887][kfold_wrapper.log_eval_metrics] Accuracy(layer_3 - estimator_1 - 5_folds.train_3.predict)=99.48%
+[ 2018-12-08 21:06:11,446][kfold_wrapper.log_eval_metrics] Accuracy(layer_3 - estimator_1 - 5_folds.train_4.predict)=99.48%
+[ 2018-12-08 21:06:11,447][kfold_wrapper.log_eval_metrics] Accuracy(layer_3 - estimator_1 - 5_folds.train_cv.predict)=99.46%
+[ 2018-12-08 21:06:11,448][cascade_classifier.calc_accuracy] Accuracy(layer_3 - train.classifier_average)=99.46%
+[ 2018-12-08 21:06:11,451][cascade_classifier.fit_transform] [layer=4] look_indexs=[0], X_cur_train.shape=(14368, 28), X_cur_test.shape=(0, 28)
+[ 2018-12-08 21:06:12,236][kfold_wrapper.log_eval_metrics] Accuracy(layer_4 - estimator_0 - 5_folds.train_0.predict)=99.44%
+[ 2018-12-08 21:06:13,011][kfold_wrapper.log_eval_metrics] Accuracy(layer_4 - estimator_0 - 5_folds.train_1.predict)=99.44%
+[ 2018-12-08 21:06:13,810][kfold_wrapper.log_eval_metrics] Accuracy(layer_4 - estimator_0 - 5_folds.train_2.predict)=99.48%
